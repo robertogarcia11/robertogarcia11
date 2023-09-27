@@ -2,10 +2,6 @@
 
 > Never wrong just early
 
-## Bio
-Moved to Tri Cities from Mexico when I was 4 years old. 
-
-
 ## Major
 BS of Computer Science at Eastern Washington University
 
