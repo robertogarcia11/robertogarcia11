@@ -1,16 +1,22 @@
-### Hi there 👋
+# Roberto Garcia
 
-<!--
-**robertogarcia11/robertogarcia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> never wrong just early
 
-Here are some ideas to get you started:
+## Major
+BS of Computer Science at Eastern Washington University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+* Graphics Design
+* Java
+
+## Links 
+- [GitHub](https://github.com/robertogarcia11)
+- [CodePen](https://codepen.io/robertogarcia11)
+
+## Hobbies
+* Video Games
+* Traveling
+* Eating 
+
+## Future Job
+* A SWE job would be cool, but now I am also considering Web Development
