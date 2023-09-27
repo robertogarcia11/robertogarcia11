@@ -1,3 +1,4 @@
+[![MasterHead].(https://camo.githubusercontent.com/37b1fdcaacdf6060f3efccd94a2712c2fd38e3358f1ba0fae3094743bd428380/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737393739383338353338393037363530302f3739333739343837373732343033333032352f47616c6178792d344b2e676966)]
 <h1 align="center">Hi 👋, I'm Roberto Garcia</h1>
 <h3 align="center">An aspiring Computer Science student at EWU</h3>
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
