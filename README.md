@@ -2,7 +2,8 @@
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
 <h3 align="left">Bio:</h3>
-- Currently a Computer Science student at EWU. 24 years old, born in Guanajuato, Mexico grew up in Pasco, WA.
+- Currently a Computer Science student at EWU. 
+24 years old, born in Guanajuato, Mexico grew up in Pasco, WA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertogarcia11&label=Profile%20views&color=0e75b6&style=flat" alt="robertogarcia11" /> </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertogarcia11&show_icons=true&locale=en&layout=compact" alt="robertogarcia11" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertogarcia11&show_icons=true&locale=en" alt="robertogarcia11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertogarcia11&" alt="robertogarcia11" /></p>
