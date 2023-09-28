@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roberto Garcia</h1>
-<h3 align="center">An aspiring Computer Science student at EWU</h3>
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
 <h3 align="left">Bio:</h3>
+<p align="left">
+- An aspiring Computer Science student at EWU from Mexico.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
