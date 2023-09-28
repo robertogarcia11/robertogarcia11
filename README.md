@@ -1,6 +1,3 @@
-<img align= "center" alt="Anime" height="200" width="800" src= "https://i.pinimg.com/originals/0e/b1/56/0eb15636563ecc2920056a5dd6e496c5.gif">
-<p align="left">
-
 <h1 align="center">Hello World 👋, I'm Roberto Garcia</h1>
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
