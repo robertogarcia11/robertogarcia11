@@ -1,4 +1,4 @@
-<img align= "center" alt="Anime" width="600" src= "https://media.tenor.com/lX9FLGgBEGwAAAAd/umbreon-night.gif">
+<img align= "center" alt="Anime" height="300" width="900" src= "https://media.tenor.com/lX9FLGgBEGwAAAAd/umbreon-night.gif">
 <p align="left">
 
 <h1 align="center">Hello World 👋, I'm Roberto Garcia</h1>
