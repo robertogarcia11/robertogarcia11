@@ -1,4 +1,4 @@
-<img align= "center" alt="Anime" height="300" width="900" src= "https://i.pinimg.com/originals/0e/b1/56/0eb15636563ecc2920056a5dd6e496c5.gif">
+<img align= "center" alt="Anime" height="200" width="800" src= "https://i.pinimg.com/originals/0e/b1/56/0eb15636563ecc2920056a5dd6e496c5.gif">
 <p align="left">
 
 <h1 align="center">Hello World 👋, I'm Roberto Garcia</h1>
