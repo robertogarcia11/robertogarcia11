@@ -15,18 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertogarcia11&label=Profile%20views&color=0e75b6&style=flat" alt="robertogarcia11" /> </p>
 
-<style>
-    body {
-        background-color: black;
-    }
+<p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertogarcia11&show_icons=true&locale=en&layout=compact" alt="robertogarcia11" /></p>
 
-    p {
-        color: purple;
-    }
-</style>
+<p style="background-color: black;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertogarcia11&show_icons=true&locale=en" alt="robertogarcia11" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertogarcia11&show_icons=true&locale=en&layout=compact" alt="robertogarcia11" /></p>
+<p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertogarcia11&" alt="robertogarcia11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertogarcia11&show_icons=true&locale=en" alt="robertogarcia11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertogarcia11&" alt="robertogarcia11" /></p>
