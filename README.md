@@ -2,7 +2,6 @@
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
 <h3 align="left">Bio:</h3>
-<p align="left">
 - Currently a Computer Science student at EWU. 24 years old, born in Guanajuato, Mexico grew up in Pasco, WA.
 
 <h3 align="left">Connect with me:</h3>
