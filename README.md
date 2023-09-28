@@ -2,6 +2,8 @@
 <h3 align="center">An aspiring Computer Science student at EWU</h3>
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
+<h3 align="left">Bio:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/robertogarcia11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="robertogarcia11" height="30" width="40" /></a>
