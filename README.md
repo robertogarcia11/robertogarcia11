@@ -21,3 +21,4 @@
 
 <p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertogarcia11&" alt="robertogarcia11" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertogarcia11&show_icons=true&theme=radical)
