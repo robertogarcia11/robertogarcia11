@@ -1,3 +1,6 @@
+<img align= "center" alt="Pokemon" width="275" src= "<img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
+<p align="left">
+
 <h1 align="center">Hello World 👋, I'm Roberto Garcia</h1>
 <img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
