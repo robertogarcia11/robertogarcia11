@@ -18,10 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertogarcia11&label=Profile%20views&color=0e75b6&style=flat" alt="robertogarcia11" /> </p>
 
 <br>
-<br>
-
-
-<p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertogarcia11&show_icons=true&locale=en&layout=compact&theme=radical" alt="robertogarcia11" /></p>
 
 ![Anurag's. GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=robertogarcia11&show_icons=true&locale=en&layout=compact&theme=radical) 
 
