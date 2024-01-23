@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Roberto Garcia</h1>
-<img align= "right" alt="Anime" width="275" src= "(https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif)">
+<img align= "right" alt="Anime" width="275" src= "https://aniyuki.com/wp-content/uploads/2021/12/aniyuki-itachi-if-59.gif">
 
 <h3 align="left">Bio:</h3>
 - Currently a Computer Science student at EWU. 
