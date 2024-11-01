@@ -3,8 +3,8 @@
 <img align= "right" alt="Anime" width="450" src= "https://64.media.tumblr.com/cb3cf1f442ffc589d53b80e1116ddb1f/tumblr_oty55snI5J1w0ii2ho1_500.gif">
 
 <h3 align="left">Bio:</h3>
-- Currently a Computer Science student at EWU. 
-24 years old, born in Guanajuato, 
+- Computer Science graduate from EWU. 
+25 years old, born in Guanajuato, 
 Mexico grew up in Pasco, WA.
 
 <h3 align="left">Connect with me:</h3>
